@@ -25,8 +25,8 @@ I'm here to make your life even better.
 
 ## 👯 Skills / Languages
 
-- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-- ![Laravel](https://img.shields.io/badge/laravel-%23777BB4.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23777BB4.svg?style=for-the-badge&logo=laravel&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 - ![Redis](https://img.shields.io/badge/redis-%23777BB4.svg?style=for-the-badge&logo=redis&logoColor=white)
 - ![Mango](https://img.shields.io/badge/mango-%23777BB4.svg?style=for-the-badge&logo=mango&logoColor=white)
