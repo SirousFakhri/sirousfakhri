@@ -52,7 +52,7 @@ Sure!
 
 
 ## 📫 Reach Out
-- [![gmail](https://img.shields.io/badge/gmail-%23E4405F.svg?logo=gmail&logoColor=white)](siros.fakhri@gmail.com) 
+- ![gmail](https://img.shields.io/badge/gmail-%23E4405F.svg?logo=gmail&logoColor=white) siros.fakhri@gmail.com
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sirosfakhri) 
 - [![Linkedin](https://img.shields.io/badge/Linkedin-%23E4405F.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sirosfakhri) 
 - [![Stackoverflow](https://img.shields.io/badge/Stackoverflow-%23E4405F.svg?logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/6252873/siros-fakhri) 
@@ -72,5 +72,9 @@ Sure!
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=sirosfakhri&icon=4&color=3)](https://visitcount.itsvg.in)
 
 ### Thank you for reading this. 
