@@ -45,10 +45,12 @@ Sure!
 
 
 ## 📫 Reach Out
-- [Linkedin](https://www.linkedin.com/in/sirosfakhri)
-- [Stackoverflow](https://stackoverflow.com/users/6252873/siros-fakhri)
-- [Telegram](https://t.me/SirosFakhri)
-- [Instagram](https://www.instagram.com/sirosfakhri/)
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sirosfakhri) 
+- [![Linkedin](https://img.shields.io/badge/Linkedin-%23E4405F.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sirosfakhri) 
+- [![Stackoverflow](https://img.shields.io/badge/Stackoverflow-%23E4405F.svg?logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/6252873/siros-fakhri) 
+- [![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/SirosFakhri)
+- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SirosFakhri)
+
 
 
 ## ⚡ Hobbies
