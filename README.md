@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 I'm here to make your life even better.
 
 ## 🔭 What I do?
- Not sure what you need? But I can help with that.
+ Not sure what you need, But I can help with that.
 
 
-## 👯 Skills / Languages
+## 💻 Skills / Languages
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23777BB4.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -52,6 +52,7 @@ Sure!
 
 
 ## 📫 Reach Out
+- [![gmail](https://img.shields.io/badge/gmail-%23E4405F.svg?logo=gmail&logoColor=white)](siros.fakhri@gmail.com) 
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sirosfakhri) 
 - [![Linkedin](https://img.shields.io/badge/Linkedin-%23E4405F.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sirosfakhri) 
 - [![Stackoverflow](https://img.shields.io/badge/Stackoverflow-%23E4405F.svg?logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/6252873/siros-fakhri) 
