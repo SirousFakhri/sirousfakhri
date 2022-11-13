@@ -59,5 +59,10 @@ Sure!
 - Running
 - and learning new things...
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=joeel561&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ####Thank you for reading this. 
