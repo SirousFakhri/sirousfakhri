@@ -52,7 +52,7 @@ Sure!
 
 
 ## 📫 Reach Out
-- ![gmail](https://img.shields.io/badge/gmail-%23E4405F.svg?logo=gmail&logoColor=white) siros.fakhri@gmail.com
+- ![gmail](https://img.shields.io/badge/gmail-%23E4405F.svg?logo=gmail&logoColor=white)<siros.fakhri@gmail.com>
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sirosfakhri) 
 - [![Linkedin](https://img.shields.io/badge/Linkedin-%23E4405F.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sirosfakhri) 
 - [![Stackoverflow](https://img.shields.io/badge/Stackoverflow-%23E4405F.svg?logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/6252873/siros-fakhri) 
