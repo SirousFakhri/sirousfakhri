@@ -1,80 +1,100 @@
-### Hi there 👋
-
-<!--
-**sirosfakhri/sirosfakhri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi 👋, I'm Siros Fakhri</h1>
+<h3 align="center">A passionate Laravel developer from Tabriz</h3>
 
 
-## 🤔 Why I'm here?
-I'm here to make your life even better.
+<div align="left" inline>
+<span align="left">
+ <a href="https://www.linkedin.com/in/sirosfakhri" rel="nofollow"><img src="https://camo.githubusercontent.com/7918b3cc1d85c884898d864c9eebdf98e006274a97678ce5932f4c8f695c0729/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564696e2d2532334534343035462e7376673f6c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/Linkedin-%23E4405F.svg?logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+</span>
+</div>
 
-## 🔭 What I do?
- Not sure what you need, But I can help with that.
+### Latest Works:
 
-
-## 💻 Skills / Languages
-
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23777BB4.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23777BB4.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Mango](https://img.shields.io/badge/mango-%23777BB4.svg?style=for-the-badge&logo=mango&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23777BB4.svg?style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwindcss-%23563D7C.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-
-- Other skills not mentioned...
-
-## 🤔 More ABOUT ME?
-Sure!
-...
-
-## 💬 Portfolio
-
-- Soon...
-
-
-## 📫 Reach Out
--  ![gmail](https://img.shields.io/badge/gmail-%23E4405F.svg?logo=gmail&logoColor=white) <siros.fakhri@gmail.com>
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sirosfakhri) 
-- [![Linkedin](https://img.shields.io/badge/Linkedin-%23E4405F.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sirosfakhri) 
-- [![Stackoverflow](https://img.shields.io/badge/Stackoverflow-%23E4405F.svg?logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/6252873/siros-fakhri) 
-- [![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/SirosFakhri)
-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SirosFakhri)
+Soooon...
 
 
 
-## ⚡ Hobbies
-- Playing Video Games
-- Watch Movie & Tv Series
-- Running
-- and learning new things...
+<img width="100%" />
+<div style="width:100%;display:block;"></div>
+<!-- YT LIST END -->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sirosfakhri&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+### Languages and Tools:
+<p align="left">
+    <a
+        href="https://www.php.net" target="_blank"> 
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
+            width="80" height="80"/> 
+    </a> 
+    <a href="https://laravel.com">
+        <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="80" height="80"/> 
+    </a>
+    <a href="https://laravel.livewire.com">
+        <img src="https://laravel-livewire.com/img/twitter.png" alt="laravel livewire" width="80" height="80"/> 
+    </a>
+  <a href="https://phpunit.de/">
+        <img src="https://phpunit.de/img/phpunit.svg" alt="phpunut" width="80" height="80"/> 
+    </a>
+    <a href="https://alpinejs.dev/">
+        <img src="https://www.markusantonwolf.com/topics/alpine-js/alpinejs-logo.svg" alt="AlpineJS" width="80" height="80"/>
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="80"
+            height="80"/> 
+    </a>
+    <a href="https://getbootstrap.com" target="_blank"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+            alt="bootstrap" width="80" height="80"/> 
+    </a>
+    <a href="https://www.docker.com/" target="_blank"> 
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+            alt="docker" width="80" height="80"/> 
+    </a>
+    <a href="https://git-scm.com/" target="_blank"> 
+        <img
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> 
+    </a>  
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            alt="javascript" width="80" height="80"/> 
+    </a> 
+    <a href="https://laravel.com/" target="_blank"> 
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+            alt="mongodb" width="80" height="80"/> 
+    </a> 
+    <a href="https://www.mysql.com/" target="_blank"> 
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+            alt="mysql" width="80" height="80"/> 
+    </a> 
+    <a href="https://redis.io" target="_blank"> 
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
+            alt="redis" width="80" height="80"/> 
+    </a> 
+    <a href="https://www.w3schools.com/html/" target="_blank"> 
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+            alt="html" width="80" height="80"/> 
+    </a> 
+    <a href="https://www.w3schools.com/css/default.asp" target="_blank"> 
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            alt="css" width="80" height="80"/> 
+    </a> 
+    <a href="https://jquery.com/" target="_blank"> 
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"
+            alt="jquery" width="80" height="80"/> 
+    </a> 
+ 
+</p>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
----
-[![](https://visitcount.itsvg.in/api?id=sirosfakhri&icon=4&color=3)](https://visitcount.itsvg.in)
-
-### Thank you for reading this. 
+<p align="center"> <strong>Last updated at 28 Jul 2023 22:51 UTC</strong></p>
