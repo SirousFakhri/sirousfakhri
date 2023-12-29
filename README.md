@@ -4,14 +4,54 @@
 
 <div align="left" inline>
 <span align="left">
- <a href="https://www.linkedin.com/in/sirosfakhri" rel="nofollow"><img src="https://camo.githubusercontent.com/7918b3cc1d85c884898d864c9eebdf98e006274a97678ce5932f4c8f695c0729/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564696e2d2532334534343035462e7376673f6c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/Linkedin-%23E4405F.svg?logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+ <a href="https://www.linkedin.com/in/sirosfakhri" rel="nofollow">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+   alt="Linkedin" data-canonical-src="https://img.shields.io/badge/Linkedin-%23E4405F.svg?logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+</span>
+
+ <span align="left">
+ <a href="https://www.instagram.com/siros.fakhri" rel="nofollow">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" data-canonical-src="https://img.shields.io/badge/instagram-%23E4405F.svg?logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
 </span>
 </div>
 
 ### Latest Works:
+<hr>
 
-Soooon...
+ <p>
+     <a href="#">
+       Ticket Management Package (Soon...)
+     </a>
+ </p>
 
+ <p>
+     <a href="#">
+      Market Place (in Development)
+     </a>
+ </p>
+ 
+ <p>
+   <a href="https://raazgo.com/">
+      raazgo.com (Admin Panel)
+    </a>
+ </p>
+
+  <p>
+   <a href="#">
+      Secret Project :)
+    </a>
+ </p>
+ 
+ <p>
+   <a href="https://mobile.finobit.io">
+     Finobit (Old Neel)
+    </a>
+ </p>
+ <p>
+   <a href="https://hashtoman.com/">
+      Hashtoman (Crypto Exchange)
+    </a>
+ </p>
 
 
 <img width="100%" />
@@ -19,6 +59,7 @@ Soooon...
 <!-- YT LIST END -->
 
 ### Languages and Tools:
+<hr>
 <p align="left">
     <a
         href="https://www.php.net" target="_blank"> 
@@ -29,9 +70,7 @@ Soooon...
     <a href="https://laravel.com">
         <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="80" height="80"/> 
     </a>
-    <a href="https://laravel.livewire.com">
-        <img src="https://laravel-livewire.com/img/twitter.png" alt="laravel livewire" width="80" height="80"/> 
-    </a>
+  
   <a href="https://phpunit.de/">
         <img src="https://phpunit.de/img/phpunit.svg" alt="phpunut" width="80" height="80"/> 
     </a>
@@ -46,14 +85,8 @@ Soooon...
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="80" height="80"/> 
     </a>
-    <a href="https://www.docker.com/" target="_blank"> 
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker" width="80" height="80"/> 
-    </a>
     <a href="https://git-scm.com/" target="_blank"> 
-        <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> 
     </a>  
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
         <img
@@ -93,6 +126,21 @@ Soooon...
  
 </p>
 
+
+
+
+### Learning:
+<hr>
+
+<p style="margin:2em 0">
+     <a href="https://www.docker.com/" target="_blank"> 
+             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+                 alt="docker" width="80" height="80"/> 
+     </a>
+     <a href="https://laravel.livewire.com">
+             <img src="https://laravel-livewire.com/img/twitter.png" alt="laravel livewire" width="80" height="80"/> 
+      </a>
+ </p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
