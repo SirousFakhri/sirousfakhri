@@ -19,36 +19,36 @@
 <hr>
 
  <p>
-     <a href="#">
+     <a>
        Ticket Management Package (Soon...)
      </a>
  </p>
 
  <p>
-     <a href="#">
+     <a target="_blank">
       Market Place (in Development)
      </a>
  </p>
  
  <p>
-   <a href="https://raazgo.com/">
+   <a href="https://raazgo.com/" target="_blank">
       raazgo.com (Admin Panel)
     </a>
  </p>
 
   <p>
-   <a href="#">
+   <a>
       Secret Project :)
     </a>
  </p>
  
  <p>
-   <a href="https://mobile.finobit.io">
+   <a href="https://mobile.finobit.io" target="_blank">
      Finobit (Old Neel)
     </a>
  </p>
  <p>
-   <a href="https://hashtoman.com/">
+   <a href="https://hashtoman.com/" target="_blank">
       Hashtoman (Crypto Exchange)
     </a>
  </p>
@@ -61,7 +61,7 @@
 ### Languages and Tools:
 <hr>
 <p align="left">
-    <a
+    <a 
         href="https://www.php.net" target="_blank"> 
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
