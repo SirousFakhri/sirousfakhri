@@ -140,6 +140,10 @@
      <a href="https://laravel.livewire.com">
              <img src="https://laravel-livewire.com/img/twitter.png" alt="laravel livewire" width="80" height="80"/> 
       </a>
+ <a href="https://www.rabbitmq.com" target="_blank"> 
+             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original-wordmark.svg"
+                 alt="rabbitmq" width="80" height="80"/> 
+     </a>
  </p>
 
 ### ✍️ Random Dev Quote
