@@ -82,7 +82,7 @@
             height="80"/> 
     </a>
     <a href="https://getbootstrap.com" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+            src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"
             alt="bootstrap" width="80" height="80"/> 
     </a>
     <a href="https://git-scm.com/" target="_blank"> 
