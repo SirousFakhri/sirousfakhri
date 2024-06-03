@@ -20,7 +20,7 @@
 
  <p>
      <a>
-       Ticket Management Package (Soon...)
+       Ticket Management Package (Archived)
      </a>
  </p>
 
@@ -129,7 +129,7 @@
 
 
 
-### Learning:
+### list of tools or languages that I wanna learn:
 <hr>
 
 <p style="margin:2em 0">
