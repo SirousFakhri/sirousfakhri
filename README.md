@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siros Fakhri</h1>
+<h1 align="center">Hi 👋, I'm Sirous Fakhri</h1>
 <h3 align="center">A passionate Laravel developer from Tabriz</h3>
 
 
