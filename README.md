@@ -18,6 +18,18 @@
 ### Latest Works:
 <hr>
 <p>
+   <a href="#" target="_blank">
+     New Project In Developpment
+    </a>
+ </p>
+ 
+<p>
+   <a href="https://oxingame.com/fa" target="_blank">
+     Oxin Game
+    </a>
+ </p>
+ 
+<p>
    <a href="https://bit24.cash/" target="_blank">
      https://bit24.cash 
     </a>
@@ -31,7 +43,7 @@
 
  <p>
      <a target="_blank">
-      Market Place (in Development)
+      Market Place (Archived)
      </a>
  </p>
  
@@ -42,8 +54,8 @@
  </p>
 
   <p>
-   <a>
-      Secret Project :)
+   <a href="http://www.freyavpn.com" target="_blank">
+      FreyaVPN
     </a>
  </p>
  
